@@ -1,6 +1,6 @@
 package com.leave996.leave996.cart;
 
-import com.leave996.leave996.lambda.cart.Sku;
+import com.leave996.leave996.cart.Sku;
 /**
  * Sku选择谓词接口
  */

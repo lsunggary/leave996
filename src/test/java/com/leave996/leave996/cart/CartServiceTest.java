@@ -6,8 +6,8 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
-import com.leave996.leave996.lambda.cart.Sku;
-import com.leave996.leave996.lambda.cart.CartService;
+import com.leave996.leave996.cart.Sku;
+import com.leave996.leave996.cart.CartService;
 
 class CartServiceTest {
 

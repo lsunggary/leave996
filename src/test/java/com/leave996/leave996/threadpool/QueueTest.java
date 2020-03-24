@@ -25,7 +25,7 @@ public class QueueTest {
     }
 
     /**
-     *
+     *T
      */
     @Test
     public void linkedBlockingQueueTeset() throws InterruptedException {
@@ -60,6 +60,10 @@ public class QueueTest {
         }
     }
 
+    /**
+     * 同步移交队列
+     * @throws InterruptedException
+     */
     @Test
     public void test() throws InterruptedException {
         /**

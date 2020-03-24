@@ -1,12 +1,10 @@
 package com.leave996.leave996.stream;
 
 import com.alibaba.fastjson.JSON;
-import com.fasterxml.jackson.annotation.JsonAlias;
-import com.leave996.leave996.lambda.cart.CartService;
-import com.leave996.leave996.lambda.cart.Sku;
+import com.leave996.leave996.cart.CartService;
+import com.leave996.leave996.cart.Sku;
 import com.leave996.leave996.lambda.cart.SkuCategoryEnum;
 import org.junit.jupiter.api.Test;
-import org.springframework.test.context.TestPropertySource;
 
 import java.util.ArrayList;
 import java.util.Comparator;

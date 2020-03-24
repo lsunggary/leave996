@@ -1,4 +1,4 @@
-package com.leave996.leave996.lambda.cart;
+package com.leave996.leave996.cart;
 
 /**
  * 下单商品信息对象

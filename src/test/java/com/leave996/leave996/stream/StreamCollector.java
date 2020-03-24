@@ -1,8 +1,8 @@
 package com.leave996.leave996.stream;
 
 import com.alibaba.fastjson.JSON;
-import com.leave996.leave996.lambda.cart.CartService;
-import com.leave996.leave996.lambda.cart.Sku;
+import com.leave996.leave996.cart.CartService;
+import com.leave996.leave996.cart.Sku;
 import org.junit.Test;
 
 import java.util.List;
